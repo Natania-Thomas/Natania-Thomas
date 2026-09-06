@@ -6,6 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Aspiring+Business+Analyst;Finance+%7C+Accounting+%7C+Analytics;Bridging+finance+and+analytics%2C+one+dashboard+at+a+time" alt="Typing SVG" />
 
+<br/><br/>
 <a href="https://www.linkedin.com/in/natania-thomas">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
