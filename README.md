@@ -4,7 +4,7 @@
 
 # Hi, I'm Natania Theresa Thomas 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=1100&lines=Aspiring+Business+Analyst;Finance+%7C+Accounting+%7C+Analytics;From+Balance+Sheets+to+Data+Sheets+%E2%80%94+turning+finance+fundamentals+into+business+insight." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=1100&lines=Aspiring+Business+Analyst;Finance+%7C+Accounting+%7C+Analytics;From+Balance+Sheets+to+Data+Sheets+%E2%80%94+turning+finance+fundamentals+into+business+insight" alt="Typing SVG" />
 
 <br/><br/>
 <a href="https://www.linkedin.com/in/natania-thomas">
