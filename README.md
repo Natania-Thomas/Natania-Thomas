@@ -53,7 +53,7 @@ I'm now applying that foundation to the world of **data and business analytics**
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natania-create&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Natania-Thomas&show_icons=true&theme=dark&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natania-Thomas&layout=compact&theme=dark&hide_border=true" width="48%"/>
 </div>
 
