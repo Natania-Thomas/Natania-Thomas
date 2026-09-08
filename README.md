@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/natania-thomas">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://docs.google.com/document/d/1SdIQFXAm87XIWDLYqsoQ47-bs-CqJAngyD5TrTN59SM/edit?usp=drivesdk">
+<a href="https://docs.google.com/document/d/1SdIQFXAm87XIWDLYqsoQ47-bs-CqJAngyD5TrTN59SM/edit?usp=sharing">
   <img src="https://img.shields.io/badge/Portfolio-2EC4B6?style=for-the-badge&logo=googledocs&logoColor=white" />
 </a>
 <a href="mailto:nataniathomas04@gmail.com">
